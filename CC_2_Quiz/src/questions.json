@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "question": "Which is the Deepest ocean?",
+    "questionType": "radio",
+    "answerOptions": [
+      { "option": "Pacific ocean", "isCorrect": true },
+      { "option": "Arctic ocean", "isCorrect": false },
+      { "option": "Indian ocean", "isCorrect": false },
+      { "option": "Malpe ocean", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Write down your hobbies",
+    "questionType": "textInput",
+    "answerOptions": [{ "option": "componentDidMount", "isCorrect": true }]
+  },
+  {
+    "id": 3,
+    "question": "What is the capital of Ireland?",
+    "questionType": "checkbox",
+    "answerOptions": [
+      { "option": "Reykjavik", "isCorrect": true },
+      { "option": "delhi", "isCorrect": false },
+      { "option": "morocco", "isCorrect": false },
+      { "option": "seuol", "isCorrect": false }
+    ]
+  }
+]
